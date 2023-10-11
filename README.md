@@ -4,4 +4,4 @@
 
 <P><em>Nossa misão é:<strong>"Proporcionar auto-estima e qualidade de vida aos clientes,trazendo um grande estilo único a eles"</strong>.</em></p>
 
-<p>Oferecemos profissionais experientes e antenados a mudança no mundo da moda.O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes<p>
+<p>Oferecemos profissionais experientes e antenados a mudança no mundo da moda.O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes</p>
