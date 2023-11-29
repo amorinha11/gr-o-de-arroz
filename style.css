@@ -9,12 +9,15 @@ body {
       color: rgb(245, 164, 164);
 }
 
-#estilo{ height: 160px;
+#estilo{
+     height: 160px;
 
 
 }
 
-#estilosdaloja{ height: 120px;
+#estilosdaloja{ 
+    
+    height: 120px;
 
 
 }
